@@ -3,6 +3,7 @@
 **Course:** CS-602 / DS-604 — Natural Language Processing
 **Topic:** Vector Space Modeling — Bag of Words (BoW) & Cosine Similarity
 **Institute of Mathematics & Computer Science, University of Sindh, Jamshoro**
+**SHOUKAT (2K24/AI/91)**
 
 ---
 
