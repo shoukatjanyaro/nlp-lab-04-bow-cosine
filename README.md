@@ -36,7 +36,7 @@ print(bow_df)
 
 **Output:**
 
-![Task 1 Output](task1_screenshot.PNG)
+![Task 1 Output](task1_screenshot.png)
 
 The 9-word vocabulary extracted (stop words like "the", "is", "and", "was" removed) is:
 `amazing, bad, customer, fast, great, performance, product, service, terrible`
@@ -80,7 +80,7 @@ print(ranking_df)
 
 **Output:**
 
-![Task 2 Output](task2_screenshot.PNG)
+![Task 2 Output](task2_screenshot.png)
 
 **Ranking:** Document 1 (0.755929) > Document 4 (0.566947) > Document 2 (0.353553) > Document 3 (0.000000)
 
